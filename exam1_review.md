@@ -3,22 +3,37 @@
 
 ##### Asset = Liability + Owner's Equity
 
-#### Assets:
-examples:
-- Cash
-- Accounts receivable
-- Inventory
-- Prepaid expenses
-- Investments
-- Property, plant, and equipment
+
+##### Current assets:
+'stuff' that are expected to be converted to cash or consume within ONE year.
+cash, accounts receivable, inventory, and prepaid expenses.
+
+##### Non-current (long term asset) assets:
+'stuff' that are expected to provide 'economic benefit' for more than ONE year.
+They include:
+###### TANGIBLE ASSETS
+land, buildings, and machinery, and 
+###### INTANGIBLE ASSETS
+patents, trademarks, and copyrights.
+
+
 
 #### Liabilities:
-examples:
-- Accounts payable
-- Accrued liabilities
-- Deferred revenue
-- Notes payable
-- Long-term debt
+##### Current liabilities:
+'money obligations' that are expected to be paid within ONE year.
+- deferred revenue (unearned revenue), money received, but goods or service has not been delivered yet.
+- accounts payable
+- credit card debt
+- short-term loans
+
+##### Non-current (long term liability) liabilities:
+'money obligations' that are expected to be paid in MORE THAN ONE year.
+- long-term loans
+- bonds PAYABLE
+- mortgages
+
+##### Contingent liabilities: (important?)
+
 
 #### Owner's Equity:
 examples:
@@ -48,3 +63,9 @@ examples:
 - Deferred revenue: is money received by a company in advance of having earned it. That is, deferred revenues are not yet revenues and therefore cannot yet be reported on the income statement. As the amount of deferred revenue is reduced, it is recognized as revenue on the income statement.
 
 - Contra-Accounts: are a type of accounting account used to record adjustments to another account. They have a balance that is opposite to the normal balance of the associated account. This means if the related account normally has a debit balance, the contra account will have a credit balance, and vice versa.
+
+### The Cost Principle (historical cost principle)
+assets and liabilities should be recorded at their original purchase price.
+the 'cost' is the amount paid or the value at the time of acquisition.
+
+ if a company buys a piece of equipment for $50,000, it will be recorded at $50,000 in the company's books, regardless of its current market value.
