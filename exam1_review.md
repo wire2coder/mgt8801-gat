@@ -6,7 +6,10 @@
 
 ##### Current assets:
 'stuff' that are expected to be converted to cash or consume within ONE year.
-cash, accounts receivable, inventory, and prepaid expenses.
+- cash
+- accounts receivable
+- inventory
+- prepaid expenses
 
 ##### Non-current (long term asset) assets:
 'stuff' that are expected to provide 'economic benefit' for more than ONE year.
@@ -14,7 +17,10 @@ They include:
 ###### TANGIBLE ASSETS
 land, buildings, and machinery, and 
 ###### INTANGIBLE ASSETS
-patents, trademarks, and copyrights.
+- patents
+- trademarks
+- copyrights
+- 'goodwill' (this one is litterally stupid) is so named because it represents the favorable qualities of a business that make it more valuable than just the sum of its tangible assets and liabilities. These qualities are often hard to quantify but can significantly impact a company's ability to generate future profits.
 
 
 
@@ -112,3 +118,37 @@ the 'cost' is the amount paid or the value at the time of acquisition.
 
  ### 'An unqualified opinion' ('good' clean opinion) very confusing language
  When the auditor states that the financial statements are "presented fairly," it does not mean that the statements are absolutely accurate in every detail. Instead, it means that the financial statements provide a true and fair view of the company's financial position and performance
+
+
+ ### 'Going concern' assumption
+  The going concern assumption states that businesses should be treated as if they will continue to operate indefinitely or at least long enough to meet their commitments and obligations. This assumption allows businesses to defer the recognition of certain expenses until a later date. For example, a business may purchase a piece of equipment that will last for 10 years. The business will record the cost of the equipment as an asset and then depreciate the asset over its useful life. The business will not record the entire cost of the equipment as an expense in the year of purchase. Instead, the business will record a portion of the cost as an expense each year for 10 years. The going concern assumption allows the business to spread the cost of the equipment over its useful life.
+
+
+### OPINION on Financial Statements:
+
+- Purpose: To express an opinion on the financial statements themselves at a specific point in time. It's the result of the audit process where the auditor has examined the numbers and disclosures in the financial statements to ensure they are in accordance with the applicable financial reporting framework (like GAAP or IFRS).
+    
+- Scope: This opinion focuses on the end product, which is the financial statements, and whether they accurately reflect the company's financial status as of the date of the statements.
+
+### OPINION on Internal Control over Financial Reporting:
+
+- Purpose: To evaluate and express an opinion on the effectiveness of the company's internal control over financial reporting throughout the period being audited. This is about the process that leads to the creation of the financial statements.
+
+### Home Depot Student Exercise (Ungraded) 
+
+Answer the following questions based on the Home Depot Financial Statements and be prepared to discuss in our Video Conference call. Note that the Home Depot Financial Statements are contained in a pdf in the Overview to the Financial Accounting module.
+
+ 
+
+- What type of audit opinion has KPMG given for Home Depot’s financial statements?
+page 30 1st paragrah, presented fairly
+page 30 2nd paragraph, unqualified opinion (good)
+
+- What calculation was made to obtain the 2018 Diluted Earnings per Share of $9.73?
+
+
+- What is the total amount of non-current assets at Feb. 3, 2019?
+- What is the amount of dividends declared in fiscal 2018?
+- What assumption relates to the last sentence of the first paragraph under the heading “Merchandise Inventories” on page 36 of Hope Depot’s financials?
+
+- What terminology does Home Depot use instead of Cost of Goods Sold?
