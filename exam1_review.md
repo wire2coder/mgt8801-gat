@@ -41,11 +41,11 @@ land, buildings, and machinery, and
 ##### Contingent liabilities: (important?)
 
 
-#### Owner's Equity:
-examples:
-- Common stock
+#### SHARE holders' Equity:
+- Capital stock (common stock), money received from selling shares of stock.
 - Retained earnings
-
+-- Dividends, money paid to shareholders. ( this will DECREASE the retained earnings)
+- Tresury stock, (a 'deduction') ?
 
 
 ### Income statement: 
@@ -97,6 +97,7 @@ Accrual accounting is an accounting method that matching revenues to expenses (t
 ## Matching principle: 
 The matching principle is an accounting concept that seeks to tie revenue generated in an accounting period to the expenses incurred to generate that revenue. In other words, the matching principle states that businesses must record expenses in the same accounting period as the revenues they are related to.
 
+## Revenue recognition principle:
 
 
 ## Revenue: 
@@ -152,3 +153,63 @@ page 30 2nd paragraph, unqualified opinion (good)
 - What assumption relates to the last sentence of the first paragraph under the heading “Merchandise Inventories” on page 36 of Hope Depot’s financials?
 
 - What terminology does Home Depot use instead of Cost of Goods Sold?
+
+### Qualities of Financial Statements
+- NO Accuracy!
+- Understandability
+- Timeliness
+- Full disclosure
+- Comparability
+- Objectivity [UPS, page 69]
+- Decision relevance
+
+### Module 1: Zoom Lecture
+## The 'Matching Principle' (Accrual Accounting)
+time stamp, 43:18
+Most 'expenses' do not have related revenue???
+If 'expenses' do not have related revenue,
+then 'costs' are reported as 'expenses' in
+THE TIME PERIOD that benefit from the 'costs'.
+
+'balance sheet ACCOUNTS' are 'permanent' accounts.
+because they 'carry over' from end of december 2023 to january 2024
+
+'Income statement ACCOUNTS' are 'temporary' accounts.
+because they DO NOT 'carry over' from end of december 2023 to january 2024
+(one year to the next year)
+because you want to see the 'performance' for just THAT 'time period'.
+you don't the expenses from last year to be mixed with this year's expenses.
+
+
+'dividend revenue' why is it not an asset???
+
+
+time stamp, 56:00
+'Statement of Cash Flows'
+
+'cash flow statment'
+- 'direct method'
+- 'indirect method' (more commonly used by companies)
+
+
+how to construct the details of:
+- balance sheet
+- income statement
+
+time stamp, 1:17:52
+Home Depot Assignment
+
+what calculation was made to obtain the 2018 Diluted Earnings per Share of $9.73?
+Fiscal year 2018
+net earnings of $11,121 (in millions) / weighted average number of diluted shares outstanding of 1,142 (in millions) = $9.73
+we are 'dividing money'
+
+time stamp, 1:24:35
+as soon as the bord of directors 'declares' the dividend, 
+it get deducted from the 'retained earnings' account.
+it becomes a 'liability'.
+
+"we evaludate the inventory valued using a cost method at the ned of each quarter to ensure that it is carraied at the lower
+of cost or net realizable value. The valuation allowance for merchandise inventories valued under a  'cost method' was not "material" to our consolidated financial statements at the ned of fiscal 2018 or fiscal 2017."
+
+[text](https://bard.google.com/chat/b106f743c0680fc8)
