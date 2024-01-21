@@ -9,7 +9,7 @@
 - cash
 - accounts receivable
 - inventory
-- prepaid expenses
+- prepaid expenses (current asset)
 
 ##### Non-current (long term asset) assets:
 'stuff' that are expected to provide 'economic benefit' for more than ONE year.
@@ -213,3 +213,14 @@ it becomes a 'liability'.
 of cost or net realizable value. The valuation allowance for merchandise inventories valued under a  'cost method' was not "material" to our consolidated financial statements at the ned of fiscal 2018 or fiscal 2017."
 
 [text](https://bard.google.com/chat/b106f743c0680fc8)
+
+- mortgage payable
+ take MANY YEARS to pay off
+
+- common stock in-paid in capital: 
+  -- shareholders' equity, not assets
+
+  -- is the money that shareholders pay to buy shares directly from the company, usually during an initial public offering (IPO) or other stock issuance. It's called "paid-in" because it's the amount investors have paid in to the company.
+
+- Common Stock at Par Value
+  -- an "Equity Account" on a company's balance sheet.
