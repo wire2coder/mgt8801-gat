@@ -224,3 +224,140 @@ of cost or net realizable value. The valuation allowance for merchandise invento
 
 - Common Stock at Par Value
   -- an "Equity Account" on a company's balance sheet.
+
+
+# 2241_Sun_21_January_2024
+
+## Depreciation vs. Amortization
+Depreciation and amortization are similar concepts, but they apply to different types of assets:
+
+1. **Depreciation**: This is about spreading the cost of a tangible asset over its useful life. Tangible assets are physical things like buildings, machines, or vehicles. For example, if a company buys a machine for $100,000 and expects it to last 10 years, it might record a depreciation expense of $10,000 per year for 10 years.
+
+2. **Amortization**: This applies to intangible assets. Intangible assets are non-physical things like patents, copyrights, or goodwill. For example, if a company buys a patent for $50,000 and it has a useful life of 5 years, the company would amortize $10,000 per year for 5 years.
+
+Both depreciation and amortization are ways to allocate the cost of an asset over its useful life. They both reduce the value of the asset on the balance sheet over time and record an expense on the income statement.
+
+### Key Points:
+- **Depreciation**: For tangible assets (like machines).
+- **Amortization**: For intangible assets (like patents).
+- Both are accounting methods to spread the cost over the useful life of an asset.
+
+### Simple Example:
+
+- **Depreciation**: 
+  - Asset: Delivery Truck
+  - Cost: $20,000
+  - Useful Life: 5 years
+  - Annual Depreciation Expense: $20,000 / 5 = $4,000
+
+- **Amortization**: 
+  - Asset: Software License
+  - Cost: $15,000
+  - Useful Life: 3 years
+  - Annual Amortization Expense: $15,000 / 3 = $5,000
+
+In both cases, the company recognizes a portion of the asset's cost as an expense each year, which reflects the using up of the asset over time.
+
+* “current” accounts
+
+FOR THIS EXAM: Any account with “revenues” in the title except deferred revenues is an income statement account. Any account with “expenses” in the title except Prepaid Expenses will be an Income Statement Account. Any account with “payables” in the title will be a liability account. ON THIS EXAM YOU WILL NEED TO KNOW HOW TO PROPERLY CONSTRUCT A BALANCE AND INCOME STATEMENT
+
+
+### Accumulated depreciation:
+Represents the total amount of depreciation expense recorded for an asset since its acquisition.
+Appears as a contra-asset account on the balance sheet, offsetting the asset's book value.
+Shows the portion of the asset's cost already recognized as an expense.
+
+### depreciation expense 
+is definitely listed as an expense in the income statement. It typically falls under the operating expenses section, reflecting the cost of using assets like machinery, equipment, or buildings to generate revenue during the accounting period.
+
+
+Cash		Asset*	BS
+Deferred Revenue	Liability*	BS
+Treasury Stock		Contra-Equity	BS
+Cost of Goods Sold	Expense	IS
+Interest Expense		Expense	IS
+Sales 		Revenues	IS
+Sales Discounts		Contra-Rev	IS
+Sales Returns		Contra-Rev	IS
+Discounts on Bonds Payable	Contra-Liab	BS
+Inventory		Asset*	BS
+Wages Payable		Liability*	BS
+Common Stock		Equity	BS
+Accumulated Depreciation	Contra-Asset	BS
+Income Taxes Payable	Liability*	BS
+Prepaid Expense	Asset*	BS
+Dividends Payable	Liability*	BS
+Depreciation Expense	Expense	IS
+Marketable Securities	Asset*	BS
+Allowance for Bad Debts	Contra-Asset*   BS 
+Utilities (or Utilities Expense)	Expense	IS
+Rent (or Rent Expense)	Expense	IS
+Notes Receivable	Asset	BS
+Buildings		Asset	BS
+Land		Asset	BS
+Bonds Payable		Liability	BS
+
+Goodwill			Asset	BS
+Equipment			Asset	BS
+Mortgage Payable		Liability	BS
+Licensing Revenues		Revenues	IS
+Interest Revenues		Revenues	IS
+Premium on Bonds Payable		Liability	BS
+Income Tax Expense		Expense	IS
+Supplies Expense		Expense	IS
+Supplies Inventory		Asset*	BS
+Advertising Expense		Expense	IS
+Salaries Expense (or Salaries)		Expense	IS
+Current Portion of any Long-Term Debt	Liability*	BS
+Retained Earnings		Equity	BS
+Wages Expense			Expense	IS
+Notes Payable			Liability	BS
+Product Sales			Revenue	IS
+Equipment			Asset	BS
+
+
+
+"Item","Type","Statement"
+"Cash","Asset*","BS"
+"Deferred Revenue","Liability*","BS"
+"Treasury Stock","Contra-Equity","BS"
+"Cost of Goods Sold","Expense","IS"
+"Interest Expense","Expense","IS"
+"Sales","Revenues","IS"
+"Sales Discounts","Contra-Rev","IS"
+"Sales Returns","Contra-Rev","IS"
+"Discounts on Bonds Payable","Contra-Liab","BS"
+"Inventory","Asset*","BS"
+"Wages Payable","Liability*","BS"
+"Common Stock","Equity","BS"
+"Accumulated Depreciation","Contra-Asset","BS"
+"Income Taxes Payable","Liability*","BS"
+"Prepaid Expense","Asset*","BS"
+"Dividends Payable","Liability*","BS"
+"Depreciation Expense","Expense","IS"
+"Marketable Securities","Asset*","BS"
+"Allowance for Bad Debts","Contra-Asset*","BS"
+"Utilities (or Utilities Expense)","Expense","IS"
+"Rent (or Rent Expense)","Expense","IS"
+"Notes Receivable","Asset","BS"
+"Buildings","Asset","BS"
+"Land","Asset","BS"
+"Bonds Payable","Liability","BS"
+"Goodwill","Asset","BS"
+"Equipment","Asset","BS"
+"Mortgage Payable","Liability","BS"
+"Licensing Revenues","Revenues","IS"
+"Interest Revenues","Revenues","IS"
+"Premium on Bonds Payable","Liability","BS"
+"Income Tax Expense","Expense","IS"
+"Supplies Expense","Expense","IS"
+"Supplies Inventory","Asset*","BS"
+"Advertising Expense","Expense","IS"
+"Salaries Expense (or Salaries)","Expense","IS"
+"Current Portion of any Long-Term Debt","Liability*","BS"
+"Retained Earnings","Equity","BS"
+"Wages Expense","Expense","IS"
+"Notes Payable","Liability","BS"
+"Product Sales","Revenue","IS"
+"Equipment","Asset","BS"
