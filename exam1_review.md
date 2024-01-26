@@ -9,7 +9,7 @@
 - cash
 - accounts receivable
 - inventory
-- prepaid expenses (current asset)
+- prepaid expenses
 
 ##### Non-current (long term asset) assets:
 'stuff' that are expected to provide 'economic benefit' for more than ONE year.
@@ -87,6 +87,15 @@ land, buildings, and machinery, and
     - Payment of dividends
 
 
+- Bad Debt Expense (income statement)
+  Money that you will not be able to collect from your customers.
+  -- you DO NOT reduce 'net sales'
+  -- you record 'bad debt expense' on the income statement
+  -- do not 'carry over' to the next year, for 'this year' only
+
+- 'Allowance Method' for 'bad debt expense' (contra-asset account) meaning something that does the 'opposite'
+  
+    
 
 ### Cash flow statement:
 (PERIOD OF TIME) a financial statement that provides aggregate data regarding all cash inflows a company receives from its ongoing operations and external investment sources, as well as all cash outflows that pay for business activities and investments during a given period.
@@ -214,150 +223,190 @@ of cost or net realizable value. The valuation allowance for merchandise invento
 
 [text](https://bard.google.com/chat/b106f743c0680fc8)
 
-- mortgage payable
- take MANY YEARS to pay off
 
-- common stock in-paid in capital: 
-  -- shareholders' equity, not assets
+### Balance Sheet 'accounts'
+-- balance 'carry over' from one year to the next year
 
-  -- is the money that shareholders pay to buy shares directly from the company, usually during an initial public offering (IPO) or other stock issuance. It's called "paid-in" because it's the amount investors have paid in to the company.
+## week 2, zoom lecture 2
 
-- Common Stock at Par Value
-  -- an "Equity Account" on a company's balance sheet.
+Luther Inc has 10,000 shares of 8%, $50 par value, cumulative preferred stock and 50,000 shares of $1 par value common stock outstanding at December 31, 2016, and December 31, 2017. The board of directors declared and paid a 3,000 dividend in 2016, in 2017, $12,000 of dividends are declared and paid. What are the dividends received by the common stockholders in 2017?
 
 
-# 2241_Sun_21_January_2024
+'par value' (something very low) $0.01 or $1
+company can sell HIGHER than the 'par value' 
+for example $10 per share, so that means 'paid in capital in excess of par value' is $9 (10 - 1) per share.
 
-## Depreciation vs. Amortization
-Depreciation and amortization are similar concepts, but they apply to different types of assets:
-
-1. **Depreciation**: This is about spreading the cost of a tangible asset over its useful life. Tangible assets are physical things like buildings, machines, or vehicles. For example, if a company buys a machine for $100,000 and expects it to last 10 years, it might record a depreciation expense of $10,000 per year for 10 years.
-
-2. **Amortization**: This applies to intangible assets. Intangible assets are non-physical things like patents, copyrights, or goodwill. For example, if a company buys a patent for $50,000 and it has a useful life of 5 years, the company would amortize $10,000 per year for 5 years.
-
-Both depreciation and amortization are ways to allocate the cost of an asset over its useful life. They both reduce the value of the asset on the balance sheet over time and record an expense on the income statement.
-
-### Key Points:
-- **Depreciation**: For tangible assets (like machines).
-- **Amortization**: For intangible assets (like patents).
-- Both are accounting methods to spread the cost over the useful life of an asset.
-
-### Simple Example:
-
-- **Depreciation**: 
-  - Asset: Delivery Truck
-  - Cost: $20,000
-  - Useful Life: 5 years
-  - Annual Depreciation Expense: $20,000 / 5 = $4,000
-
-- **Amortization**: 
-  - Asset: Software License
-  - Cost: $15,000
-  - Useful Life: 3 years
-  - Annual Amortization Expense: $15,000 / 3 = $5,000
-
-In both cases, the company recognizes a portion of the asset's cost as an expense each year, which reflects the using up of the asset over time.
-
-* “current” accounts
-
-FOR THIS EXAM: Any account with “revenues” in the title except deferred revenues is an income statement account. Any account with “expenses” in the title except Prepaid Expenses will be an Income Statement Account. Any account with “payables” in the title will be a liability account. ON THIS EXAM YOU WILL NEED TO KNOW HOW TO PROPERLY CONSTRUCT A BALANCE AND INCOME STATEMENT
+Paid-in Capital in Excess of Par: This account on the balance sheet captures that excess amount. If the company sells 1,000 shares at $10, with a par value of $1, the "Paid-in Capital in Excess of Par" would be $9,000 (1,000 shares * $9 excess per share).
 
 
-### Accumulated depreciation:
-Represents the total amount of depreciation expense recorded for an asset since its acquisition.
-Appears as a contra-asset account on the balance sheet, offsetting the asset's book value.
-Shows the portion of the asset's cost already recognized as an expense.
+Question 10
+If bonds are issued at a premium, the stated interest rate is:
+Group of answer choices
 
-### depreciation expense 
-is definitely listed as an expense in the income statement. It typically falls under the operating expenses section, reflecting the cost of using assets like machinery, equipment, or buildings to generate revenue during the accounting period.
+Higher than the market rate of interest
+
+Lower than the market rate of interest
+
+Too low to attract investors
+
+Adjusted to a higher rate of interest
+
+Zero
+
+issued at 'premium' means 'higher than the face value'
+why would someone pay the 'extra' money?
+because the 'interest rate' of the bond is (stated interest rate)
+HIGHER than the 'market rate of interest'.
+
+that's why people will pay more for the 'bond' so the boud will 'pay them back more'
+
+### "subsidiary"
+A "subsidiary" is a company that is controlled by another company, known as the parent company or holding company. Control is typically achieved through ownership of more than 50% of the subsidiary's voting stock. Here are some key points:
+
+    Ownership: A subsidiary is owned by another company, which holds the majority of its stock. If the parent company owns 100% of the shares, the subsidiary is termed a "wholly owned subsidiary."
 
 
-Cash		Asset*	BS
-Deferred Revenue	Liability*	BS
-Treasury Stock		Contra-Equity	BS
-Cost of Goods Sold	Expense	IS
-Interest Expense		Expense	IS
-Sales 		Revenues	IS
-Sales Discounts		Contra-Rev	IS
-Sales Returns		Contra-Rev	IS
-Discounts on Bonds Payable	Contra-Liab	BS
-Inventory		Asset*	BS
-Wages Payable		Liability*	BS
-Common Stock		Equity	BS
-Accumulated Depreciation	Contra-Asset	BS
-Income Taxes Payable	Liability*	BS
-Prepaid Expense	Asset*	BS
-Dividends Payable	Liability*	BS
-Depreciation Expense	Expense	IS
-Marketable Securities	Asset*	BS
-Allowance for Bad Debts	Contra-Asset*   BS 
-Utilities (or Utilities Expense)	Expense	IS
-Rent (or Rent Expense)	Expense	IS
-Notes Receivable	Asset	BS
-Buildings		Asset	BS
-Land		Asset	BS
-Bonds Payable		Liability	BS
+### direct write-off method
+The direct write-off method for uncollectible accounts is an accounting approach used to handle bad debts (accounts receivable that are no longer considered collectible). Among the options provided, the statement that best describes the direct write-off method is:
 
-Goodwill			Asset	BS
-Equipment			Asset	BS
-Mortgage Payable		Liability	BS
-Licensing Revenues		Revenues	IS
-Interest Revenues		Revenues	IS
-Premium on Bonds Payable		Liability	BS
-Income Tax Expense		Expense	IS
-Supplies Expense		Expense	IS
-Supplies Inventory		Asset*	BS
-Advertising Expense		Expense	IS
-Salaries Expense (or Salaries)		Expense	IS
-Current Portion of any Long-Term Debt	Liability*	BS
-Retained Earnings		Equity	BS
-Wages Expense			Expense	IS
-Notes Payable			Liability	BS
-Product Sales			Revenue	IS
-Equipment			Asset	BS
+**Is inconsistent with the matching principle.**
+
+Here's why:
+
+- **Inconsistency with the Matching Principle**: The matching principle in accounting states that expenses should be recorded in the same period as the revenues they helped generate. The direct write-off method records bad debt expense only at the time the specific account is deemed uncollectible, which could be a different period from when the related revenue was recognized. This approach can distort the true financial picture of a company for a particular period.
+
+- **Not Using Aging or Credit Sales Method**: The direct write-off method does not estimate bad debts based on aging of accounts receivable or a percentage of credit sales, which are characteristics of the allowance method.
+
+- **Not Using a Contra-Revenue Account**: The direct write-off method does not use a contra-revenue account. It directly writes off the bad debt against the accounts receivable.
+
+In essence, while the direct write-off method is straightforward and used for tax purposes or by smaller businesses, it is not favored under generally accepted accounting principles (GAAP) for larger, publicly traded companies due to its inconsistency with the matching principle.
 
 
 
-"Item","Type","Statement"
-"Cash","Asset*","BS"
-"Deferred Revenue","Liability*","BS"
-"Treasury Stock","Contra-Equity","BS"
-"Cost of Goods Sold","Expense","IS"
-"Interest Expense","Expense","IS"
-"Sales","Revenues","IS"
-"Sales Discounts","Contra-Rev","IS"
-"Sales Returns","Contra-Rev","IS"
-"Discounts on Bonds Payable","Contra-Liab","BS"
-"Inventory","Asset*","BS"
-"Wages Payable","Liability*","BS"
-"Common Stock","Equity","BS"
-"Accumulated Depreciation","Contra-Asset","BS"
-"Income Taxes Payable","Liability*","BS"
-"Prepaid Expense","Asset*","BS"
-"Dividends Payable","Liability*","BS"
-"Depreciation Expense","Expense","IS"
-"Marketable Securities","Asset*","BS"
-"Allowance for Bad Debts","Contra-Asset*","BS"
-"Utilities (or Utilities Expense)","Expense","IS"
-"Rent (or Rent Expense)","Expense","IS"
-"Notes Receivable","Asset","BS"
-"Buildings","Asset","BS"
-"Land","Asset","BS"
-"Bonds Payable","Liability","BS"
-"Goodwill","Asset","BS"
-"Equipment","Asset","BS"
-"Mortgage Payable","Liability","BS"
-"Licensing Revenues","Revenues","IS"
-"Interest Revenues","Revenues","IS"
-"Premium on Bonds Payable","Liability","BS"
-"Income Tax Expense","Expense","IS"
-"Supplies Expense","Expense","IS"
-"Supplies Inventory","Asset*","BS"
-"Advertising Expense","Expense","IS"
-"Salaries Expense (or Salaries)","Expense","IS"
-"Current Portion of any Long-Term Debt","Liability*","BS"
-"Retained Earnings","Equity","BS"
-"Wages Expense","Expense","IS"
-"Notes Payable","Liability","BS"
-"Product Sales","Revenue","IS"
-"Equipment","Asset","BS"
+1. **Uses the Aging Method**:
+   - This is a way to guess how much money from sales on credit you might not collect. You look at how long each bill has been waiting to be paid and guess that the longer it's been, the less likely you are to get the money.
+
+2. **Uses the Credit Sales Method**:
+   - This is another way to estimate how much money from sales on credit won't be paid. Instead of looking at each bill, you take a percentage of your total sales made on credit, based on past experiences, to figure out the likely bad debts.
+
+3. **Matches the Expense of Uncollectible Accounts with the Related Revenues**:
+   - This idea says you should record the cost of not getting paid (bad debts) in the same period you made the sales. It's about matching the cost of doing business (like not getting paid sometimes) with the money you made from selling things.
+
+4. **Uses Contra-Revenue Account to Write Off Uncollectible Receivables**:
+   - A contra-revenue account is like a negative sales account. When you realize you're definitely not getting paid for a sale you made earlier, you use this account to say, "Okay, we thought we made this much in sales, but we need to reduce that amount because we're not getting all that money."
+
+5. **Is Inconsistent with the Matching Principle**:
+   - The matching principle is an accounting rule that says you should record expenses in the same period as the revenues they help to generate. If you don't follow this rule (like recording bad debts only when you're sure you won't get paid, which could be much later), it's considered inconsistent with this principle. This can make your financial situation in any given period look better or worse than it really is.
+
+
+Preferred shareholders do not typically have a direct claim on the retained earnings of a company. Retained earnings are primarily associated with common shareholders. Here's how it works:
+
+1. **Retained Earnings**: These are the profits that a company chooses to keep and reinvest in the business rather than distribute as dividends. Retained earnings are part of the equity of the company and are essentially owned by the shareholders.
+
+2. **Common Shareholders**: Common shareholders have a residual claim on the company's assets, which includes retained earnings. This means that after all liabilities and preferred shareholders' claims are satisfied, common shareholders are entitled to the remaining assets, including retained earnings.
+
+3. **Preferred Shareholders**: Preferred shareholders have a priority claim over common shareholders when it comes to dividends and assets in the event of liquidation. However, their claim is typically limited to the fixed dividends and the par value of their shares. They don't usually have a claim on the retained earnings beyond their fixed dividend rights. Retained earnings are generally considered to benefit common shareholders, who take on more risk and have a residual claim on the company's assets.
+
+In essence, while preferred shareholders have priority over common shareholders in certain respects (like receiving dividends and claims in liquidation), retained earnings are primarily linked to the interests of common shareholders.
+
+
+"Notes Payable" and "Bonds Payable" are both forms of debt that companies can use to raise capital, but they have some distinct differences:
+
+1. **Notes Payable**:
+   - **Nature**: Notes payable are usually shorter-term debt instruments. They can be used for various purposes like financing routine business operations or managing working capital.
+   - **Maturity**: They typically have a maturity of less than one year, though they can sometimes extend to a few years.
+   - **Formal Agreement**: The terms are usually less formal than bonds and are often arranged with banks or financial institutions.
+   - **Interest and Repayment**: Notes payable generally have a fixed interest rate and are paid back, along with interest, at maturity or over the term of the note.
+
+2. **Bonds Payable**:
+   - **Nature**: Bonds payable are a form of long-term debt and are used for significant capital projects or long-term financing needs.
+   - **Maturity**: They usually have a maturity period of more than one year, often extending to 10 years or more.
+   - **Issuance**: Bonds are issued to the general public and can be traded on the bond market. Issuing bonds is a more formal process and involves more legal and regulatory requirements.
+   - **Interest and Repayment**: Bonds typically pay periodic interest, known as coupon payments, and repay the principal amount (face value) at the end of the bond's term.
+
+In summary, notes payable are generally shorter-term, less formal debt instruments compared to bonds payable, which are longer-term, involve more formal issuance processes, and are often traded in public markets.
+
+
+Accumulated depreciation is an accounting term used to represent the total amount of depreciation expense that has been recorded against a fixed asset over its life to date. Here's a breakdown:
+
+1. **Depreciation**: This is the process of allocating the cost of a tangible asset over its useful life. It's an accounting method to account for the wear and tear, deterioration, or obsolescence of the asset.
+
+2. **Accumulated Depreciation**:
+   - It is a contra asset account, meaning it offsets the asset account against which it is recorded.
+   - Over time, as depreciation expense is recorded each accounting period (year, month, etc.), it accumulates in this account.
+   - The balance in the accumulated depreciation account increases by the amount of depreciation expense recorded in each period.
+
+3. **Purpose**:
+   - The purpose is to reflect the reduction in value of a fixed asset over time.
+   - It provides a more accurate picture of the asset's value on the balance sheet.
+
+4. **Calculation on the Balance Sheet**:
+   - On the balance sheet, the original cost of the asset is listed along with the accumulated depreciation.
+   - The net book value of the asset is then calculated as: Original Cost of the Asset - Accumulated Depreciation.
+   - This net book value represents the current value of the asset as per the company’s books.
+
+5. **Example**: 
+   - If a company buys a machine for $10,000 and the annual depreciation expense is $1,000, after three years, the accumulated depreciation will be $3,000. The net book value of the machine at that point would be $10,000 (cost) - $3,000 (accumulated depreciation) = $7,000.
+
+Accumulated depreciation thus helps in understanding how much of an asset's cost has been used up at any point in its life.
+
+
+"Allowance for Doubtful Accounts" of $7,320 is not an operating expense listed on the income statement, but rather a contra asset account listed on the balance sheet. Let's break down its role:
+
+1. **Contra Asset Account**:
+   - "Allowance for Doubtful Accounts" is a contra asset because it decreases the total value of accounts receivable. It represents the estimated amount of accounts receivable that the company does not expect to collect.
+   - It's shown on the balance sheet as a deduction from the gross accounts receivable to reflect a more accurate value of what's actually expected to be collected.
+
+2. **Not an Expense on Income Statement**:
+   - The creation or adjustment of the allowance for doubtful accounts itself is not directly listed as an operating expense on the income statement. 
+   - However, the expense related to creating or increasing this allowance is recorded on the income statement as "Bad Debt Expense" or "Doubtful Accounts Expense." This expense reflects the estimated cost of accounts receivable that are not expected to be collected.
+
+3. **Reflecting on Financial Statements**:
+   - When a company estimates that some of its accounts receivable won't be collected, it records this expense on the income statement. 
+   - Concurrently, it increases the "Allowance for Doubtful Accounts" by the same amount on the balance sheet. This increase offsets the accounts receivable balance.
+
+In summary, while "Allowance for Doubtful Accounts" is related to an expense (bad debt expense) that is reported on the income statement, the allowance itself is a contra asset account on the balance sheet, used to reduce the gross accounts receivable to their net realizable value.
+
+
+
+Net income is directly related to retained earnings in a company's financial accounting. Here's how it works:
+
+1. **Retained Earnings**: This is the cumulative amount of net income that a company has retained (not distributed to shareholders as dividends) over its entire existence. Retained earnings increase when the company earns a profit (net income) and decrease when the company distributes dividends.
+
+2. **Calculating Net Income Using Retained Earnings**:
+   - The change in retained earnings over an accounting period is influenced by two factors: the net income for the period and the dividends paid out.
+   - If you know the beginning and ending retained earnings and the dividends paid, you can calculate the net income for the period.
+
+3. **Formula**: 
+   - Net Income = Ending Retained Earnings - Beginning Retained Earnings + Dividends Paid
+
+Given your data:
+- Beginning Retained Earnings = $125,000
+- Ending Retained Earnings = $137,000
+- Dividends Paid = $16,000
+
+Now, let's calculate the net income for the year.
+
+Let's calculate the net income for the year manually using the provided data:
+
+Net Income = Ending Retained Earnings - Beginning Retained Earnings + Dividends Paid
+Net Income = $137,000 (Ending Retained Earnings) - $125,000 (Beginning Retained Earnings) + $16,000 (Dividends Paid)
+Net Income = $137,000 - $125,000 + $16,000
+Net Income = $28,000
+
+So, the amount of net income for the year was $28,000. This is how net income relates to retained earnings: the company started with $125,000 in retained earnings, earned $28,000 in net income, paid out $16,000 in dividends, and ended with $137,000 in retained earnings.
+
+
+When a company purchases a significant but not controlling interest in another company, such as 25% of the common stock of an investee, the appropriate method of accounting for this investment is usually **the equity method**. Here's why:
+
+1. **The Equity Method**:
+   - This method is used when the investor has significant influence over the investee but does not have full control (typically interpreted as owning 20% to 50% of the voting stock).
+   - Under the equity method, the investment is initially recorded at cost and subsequently adjusted for the investor's share of the investee's profits or losses. Dividends received from the investee reduce the carrying amount of the investment.
+
+2. **Other Methods**:
+   - **The Cost Method**: This is used when the investment does not grant the investor significant influence over the investee, typically when the investment is less than 20%.
+   - **Consolidated Financial Statements**: These are prepared when the investor has control over the investee, generally interpreted as owning more than 50% of the voting stock.
+   - **Controlling Interest Method**: Similar to consolidation, this is used when there is control over the investee.
+   - **Determined by Agreement with Other Stockholders**: This is not a standard accounting practice for determining the method of accounting for an investment.
+
+Since the investment in your scenario is 25%, which usually implies significant influence but not control, the equity method is the most appropriate accounting method.
