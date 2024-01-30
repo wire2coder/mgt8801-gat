@@ -476,11 +476,42 @@ GROSS PROFIT MARGIN = GROSS MARGIN / net revenue * 100
 
 Net income is total revenue less COGS, operating expenses, interest and tax, and other gains/losses. 
 
-Gross Profit is a CURRENCY AMOUNT $$$$$
+Gross Profit is a CURRENCY AMOUNT $
 Gross Profit = Net Sales − COGS
 
-Gross Profit MARGIN is a PERCENTAGE %%%%%
+Gross Profit MARGIN is a PERCENTAGE %
+Gross Profit Margin = (Gross Profit / Revenue) * 100%
 
+Profit Margin = (Net Income / Revenue) * 100%
+
+
+
+```
+Here's an analogy to illustrate the difference:
+
+Imagine you run a lemonade stand.
+You sell a cup of lemonade for $1 and the cost of the ingredients is $0.50.
+Your gross profit per cup is $0.50 ($1 - $0.50).
+This means your gross profit margin is 50% ($0.50 / $1 * 100%).
+However, you also have other expenses, such as the cost of the cups, lemons, sugar, and your time. Let's say these expenses total $0.25 per cup.
+
+>>> Your net income per cup is $0.25 ($0.50 - $0.25).
+This means your profit margin is 25% ($0.25 / $1 * 100%).
+
+```
+
+*** gross profit margin only considers the 'direct costs' of producing the lemonade, while the profit margin takes into account all of the costs associated with running the lemonade stand. ***
+
+
+Net Income = Gross Profit - Operating Expenses - Other Expenses + Other Income - Taxes
+
+Here's a simple breakdown:
+
+    Gross Profit: This is the money left over from sales after subtracting the cost of goods sold (COGS).
+    Operating Expenses: These are the costs related to running the business, like rent, salaries, and utilities.
+    Other Expenses: This includes interest expense and losses from other activities not related to the primary operations.
+    Other Income: This is income from non-operating activities, like investment income or gains from the sale of assets.
+    Taxes: The amount of income tax paid.
 
 a 'bond' face value (starting value)
 'contract rate' (stated rate, the rate printed on the contract paper)
@@ -737,3 +768,21 @@ When a company purchases a significant but not controlling interest in another c
    - **Determined by Agreement with Other Stockholders**: This is not a standard accounting practice for determining the method of accounting for an investment.
 
 Since the investment in your scenario is 25%, which usually implies significant influence but not control, the equity method is the most appropriate accounting method.
+
+
+Dividends are not expenses. They are distributions of a company's profits to its shareholders. Therefore, no dividend expense is recognized in the income statement at any point.
+
+
+Working Capital = Current Assets - Current Liabilities
+
+
+"Lower of Cost or Market" (LCM) rule to value the company's inventory.
+With 200 units in inventory, the total value becomes:
+
+Total Inventory Value = Lower Market Value per Unit * Number of Units
+= $13 per unit * 200 units
+= $2600
+
+
+asset turn over ratio = net revenues / average assets
+debt ratio = total liability / total asset
