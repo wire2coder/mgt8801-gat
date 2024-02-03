@@ -16,10 +16,50 @@ centralized supply chain:
 have 1 warehouse to keep stuff
 advantages
 
-Outsourced Supply Chain: 
+Outsourced (to someone else) Supply Chain: 
 Means you hire another company to do the work for you. This could be anything from manufacturing products, handling logistics, or customer service. The key is that another business, not your own, takes on these tasks
 
-Offshored Supply Chain: 
+(moving) Offshored Supply Chain: 
 Means your company is still responsible for the work, but it's done in a different country to take advantage of benefits like lower labor costs, favorable tax conditions, or other economic advantages.
 
 PULL system
+
+
+
+Lead time 
+is the period between the initiation of a process and its completion. In the context of supply chains and business, lead time typically refers to the time from when an order is placed until it is received and ready for use or sale. It includes the time taken for production, processing, and shipping
+
+
+"low distribution cost per ITEM weight"
+
+
+"Many points of sale" 
+typically refers to the locations where the final transaction with the customer takes place, where the goods are actually sold and change ownership. This would include retail stores, online storefronts, kiosks, or any end-point sales locations.
+
+"Warehouses", on the other hand, are NOT considered points of sale. They are part of the distribution network where goods are stored and managed before being sent to the points of sale. 
+
+"customized delivery"
+is like amazon prime 'next day shipping'
+
+
+"Customized delivery" refers to tailoring the delivery process to meet specific needs or preferences of customers. It's like giving a personal touch to how products are shipped and delivered. Here’s what it typically involves:
+
+1. **Delivery Timing**: Allowing customers to choose when they receive their goods, like scheduling a specific date and time.
+2. **Packaging**: Offering gift wrapping or special packaging options for special occasions or for product protection.
+3. **Handling Instructions**: Following particular instructions for handling sensitive items, like keeping them upright or at a certain temperature.
+4. **Unpacking and Installation**: Providing services to unpack and set up products, such as electronics or furniture.
+5. **Direct Communication**: Updating customers with personalized messages about their delivery status.
+
+The main idea is to give customers more control over the delivery of their purchases and make the experience better for them.
+
+
+to have an 'efficient supply chain' means
+you are using as a little money as possible from making the products to sending the products 'to the selling locations'?
+
+i get it now, because a 'customized delivery' would cost more money to 'ship'
+because you have to do 'something unique' for each delivery, compare to 'standard delivery' where every deliveries are treated the same
+
+'captive'
+The question is asking about the factors that impact the cost when a company is considering moving some of its operations to another country (offshoring), specifically when these operations are not "captive."
+
+When we say offshoring that is "not captive," we're talking about using third-party vendors or facilities in the other country, rather than setting up your own (which would be captive offshoring).
