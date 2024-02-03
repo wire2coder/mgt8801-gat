@@ -63,3 +63,19 @@ because you have to do 'something unique' for each delivery, compare to 'standar
 The question is asking about the factors that impact the cost when a company is considering moving some of its operations to another country (offshoring), specifically when these operations are not "captive."
 
 When we say offshoring that is "not captive," we're talking about using third-party vendors or facilities in the other country, rather than setting up your own (which would be captive offshoring).
+
+
+A "functional product" in supply chain and marketing terms refers to a product with stable demand and long life cycles. These products are typically necessities that people buy on a regular basis, like toothpaste, basic clothing, or paper towels. The demand for these products doesn't change much over time, and they don't often go through rapid innovation or style changes.
+
+Given this definition, let's look at the options provided:
+
+1. **High demand uncertainty**: This would not be characteristic of a functional product since their demand is stable.
+   
+2. **High product variety and low volume**: Functional products usually have low variety and high volume because they are regularly consumed staples.
+   
+3. **Short product life**: Functional products tend to have long product lives; they are the opposite of trendy or fashionable items that have short life spans due to changing consumer preferences.
+   
+4. **Low inventory costs**: This is likely to be true for functional products because their stable demand allows for consistent production schedules and efficient inventory management.
+   
+5. **Long lead times**: Functional products typically don't have long lead times because their stable demand allows for better planning and supply chain optimization.
+
