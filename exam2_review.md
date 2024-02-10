@@ -1,5 +1,7 @@
 ## 'predictive anaylyticS'
 
+## Required Course Pack
+https://hbsp.harvard.edu/coursepacks/1104966
 
 ## week 1, supply chain management
 responsive supply chain:
@@ -79,3 +81,8 @@ Given this definition, let's look at the options provided:
    
 5. **Long lead times**: Functional products typically don't have long lead times because their stable demand allows for better planning and supply chain optimization.
 
+
+## Week 2 (medium term decision)
+what is Kanban?
+
+what is 'push' and 'pull' system?
